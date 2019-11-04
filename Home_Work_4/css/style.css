@@ -1,0 +1,68 @@
+@import url(reset.css);
+
+.header	{
+	width: 1440px;
+	height: 200px;
+	background-color: #E5E000; 
+}
+
+.heading	{
+	text-align: left;
+	color: #FFFFFF;
+    font-weight: bold;
+	font-size: 50px;
+    line-height: 200px;
+	font-family: 'PT Sans', sans-serif;
+
+}
+
+.image	{
+	width: 1440px; height: 1080px;
+	background-image:url(../img/img.png);
+	background-attachment: fixed;
+
+}
+
+.links-container {
+	width: 1440px;
+	height: 100px;
+	background-color: #E5E000
+	
+}
+
+.links-text {
+	text-align: center;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-family:'PT Sans', sans-serif;
+	font-size: 25px;
+    line-height: 29px; 
+
+}
+
+.text-container {
+	width: 1280px;
+	height: 627px;
+
+}
+
+.text-h {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: black;
+	font-size: 50px;
+	line-height: 57px;
+}
+
+.main-text {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: black;
+	font-size: 50px;
+	line-height: 57px;
+
+}
+
+.footer-container {
+	width: 1440px;
+	height: 200px;
+	background-color: #E5E000;
+}
