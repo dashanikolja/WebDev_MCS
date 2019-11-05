@@ -13,6 +13,7 @@
 	font-size: 50px;
     line-height: 200px;
 	font-family: 'PT Sans', sans-serif;
+	padding-left: 80px;
 
 }
 
@@ -26,7 +27,12 @@
 .links-container {
 	width: 1440px;
 	height: 100px;
-	background-color: #E5E000
+	background-color: #E5E000;
+	font-family:'PT Sans', sans-serif;
+	font-size: 25px;
+    line-height: 110px; 
+    color: #FFFFFF;
+
 	
 }
 
@@ -36,7 +42,8 @@
 	text-transform: uppercase;
 	font-family:'PT Sans', sans-serif;
 	font-size: 25px;
-    line-height: 29px; 
+    line-height: 110px; 
+    
 
 }
 
@@ -50,7 +57,9 @@
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: black;
 	font-size: 50px;
+	font-weight: bold;
 	line-height: 57px;
+	padding-left: 80px;
 }
 
 .main-text {
@@ -58,6 +67,7 @@
 	color: black;
 	font-size: 50px;
 	line-height: 57px;
+	padding-left: 80px;
 
 }
 
@@ -66,3 +76,9 @@
 	height: 200px;
 	background-color: #E5E000;
 }
+
+.logo {
+	padding-left: 80px;
+	padding-top: 77px;
+	}
+
