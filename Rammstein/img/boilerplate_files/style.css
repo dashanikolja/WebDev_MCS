@@ -1,9 +1,0 @@
-.header {
-	width: 500px;
-	height: 200px;
-	background-color: blue;
-	background-image: url(../img/coding.jpg);
-	-webkit-background-size: cover;
-	background-size: 100px;
-	background-repeat: repeat;
-}

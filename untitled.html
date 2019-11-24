@@ -4,15 +4,24 @@
 <meta charset="UTF-8">
 <title>Document</title>
 <style>
- p {color: white;
- 	background: black;}
+
+@keyframes test {
+from: {
+opacity: 1;
+}
+to: {
+opacity: 0;
+}
+}
+
+.yo {
+animation: test 1s linear 0.5s infinite alternate;
+}
 </style>
 </head>
 <body>
-<header></header>
-<section>
-<p>Hello</p>
-</section>
-<footer></footer>
+<div class="yo">
+Yo
+</div>
 </body>
 </html>
